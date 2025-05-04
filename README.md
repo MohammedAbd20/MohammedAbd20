@@ -16,6 +16,7 @@
 - 🔧 I develop and maintain both **frontend** and **backend** systems.  
 - 🎯 Passionate about clean code, UI/UX best practices, and performance optimization.  
 - 💡 I turn ideas into fully functional, responsive web applications.  
+- 🌱 Improving my skills every day to reach a professional level as a full-stack developer
 
 ---
 
