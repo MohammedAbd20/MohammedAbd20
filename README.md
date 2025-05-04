@@ -1,3 +1,5 @@
+<img src="https://imgur.com/a/4DrJVbD" width="150" alt="My Profile Picture">
+
 # 👋 Hi there, I'm Mohammed Hamdi Abd Elrahman
 
 I'm a **Full Stack Web Developer** specializing in **Laravel (PHP)** for backend development and modern frontend technologies like **HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS**. I enjoy building complete web solutions—from clean APIs to beautiful user interfaces.
