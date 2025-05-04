@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mohammed Hamdi Abd Elrahman
 
-<!--
-**MohammedAbd20/MohammedAbd20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Web Developer** specializing in **Laravel (PHP)** for backend development and modern frontend technologies like **HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS**. I enjoy building complete web solutions—from clean APIs to beautiful user interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔧 I develop and maintain both **frontend** and **backend** systems.
+- 🎯 Passionate about clean code, UI/UX best practices, and performance optimization.
+- 💡 I turn ideas into fully functional, responsive web applications.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+`HTML` • `CSS` • `JavaScript` • `Bootstrap` • `Tailwind CSS`
+
+**Backend:**  
+`Laravel` • `PHP` • `MySQL` • `Sanctum`
+
+**Tools & Version Control:**  
+`Git` • `GitHub` • `GitHub Actions`
+
+---
+
+## 📫 Let's Connect
+
+- **Email:** mohhamabd18@example.com  
+
+---
+
+> “Build smart. Design clean. Deliver fast.” 🚀
