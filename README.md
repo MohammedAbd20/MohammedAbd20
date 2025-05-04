@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/4DrJVbD" width="150" alt="My Profile Picture">
+<img src="https://i.imgur.com/ckasrLS.png" width="150" alt="My Profile Picture">
 
 # 👋 Hi there, I'm Mohammed Hamdi Abd Elrahman
 
