@@ -1,16 +1,21 @@
-<img src="https://i.imgur.com/ckasrLS.png" width="150" alt="My Profile Picture">
+<p align="center">
+  <img src="https://i.imgur.com/ckasrLS.png" width="150" alt="My Profile Picture" style="border-radius: 50%">
+</p>
 
-# 👋 Hi there, I'm Mohammed Hamdi Abd Elrahman
+<h2 align="center">Hi, I'm Mohammed Hamdi Abd Elrahman</h2>
+<h3 align="center">👨‍💻 Full Stack Laravel Web Developer</h3>
 
-I'm a **Full Stack Web Developer** specializing in **Laravel (PHP)** for backend development and modern frontend technologies like **HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS**. I enjoy building complete web solutions—from clean APIs to beautiful user interfaces.
+<p align="center">
+  <marquee>🚀 I build complete web solutions — from backend APIs to elegant frontends.</marquee>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔧 I develop and maintain both **frontend** and **backend** systems.
-- 🎯 Passionate about clean code, UI/UX best practices, and performance optimization.
-- 💡 I turn ideas into fully functional, responsive web applications.
+- 🔧 I develop and maintain both **frontend** and **backend** systems.  
+- 🎯 Passionate about clean code, UI/UX best practices, and performance optimization.  
+- 💡 I turn ideas into fully functional, responsive web applications.  
 
 ---
 
@@ -29,8 +34,8 @@ I'm a **Full Stack Web Developer** specializing in **Laravel (PHP)** for backend
 
 ## 📫 Let's Connect
 
-- **Email:** mohhamabd18@example.com
-- **Portfolio**: Coming Soon!
+- **Email:** mohhamabd18@example.com  
+- **Portfolio:** Coming Soon!
 
 ---
 
