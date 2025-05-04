@@ -20,7 +20,7 @@ I'm a **Full Stack Web Developer** specializing in **Laravel (PHP)** for backend
 `HTML` • `CSS` • `JavaScript` • `Bootstrap` • `Tailwind CSS`
 
 **Backend:**  
-`Laravel` • `PHP` • `MySQL` • `Sanctum`
+`PHP` • `Laravel` • `MySQL` • `Sanctum`
 
 **Tools & Version Control:**  
 `Git` • `GitHub` • `GitHub Actions`
